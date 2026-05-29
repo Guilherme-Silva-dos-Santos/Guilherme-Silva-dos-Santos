@@ -29,6 +29,7 @@ No meu [LinkedIn](https://www.linkedin.com/in/guilherme-silva-a6796327a/), compa
 
 ---
 ### 🛠️ Linguagens e tecnologias 
+<br/>
 <img 
 align="left"
 alt="Java"
@@ -93,16 +94,7 @@ style="padding-right= 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
 
-<br/>
-<br/>
 
----
-### Estatísticas 📈
-<img 
-align="left"
-height="200px"
-style="padding-right= 10px"
-src="https://github-readme-stats.vercel.app/api?username=Guilherme-Silva-dos-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
 
 
